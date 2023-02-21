@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# <JavaScript-Coding-Quiz>
 
 ## Description
 
