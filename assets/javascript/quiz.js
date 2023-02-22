@@ -1,4 +1,3 @@
-// Questions array
 const questions = [
   {
     question: "What does 'DOM' stand for?",
