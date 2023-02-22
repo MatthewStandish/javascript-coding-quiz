@@ -7,9 +7,7 @@ During this project, I have learned how to create a webpage which can store quiz
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+[JavaScript Coding Quiz](https://matthewstandish.github.io/javascript-coding-quiz/ "JavaScript Coding Quiz")
 
 ![start-quiz-page](assets/images/start-quiz-page.png)
 ![quiz-page](assets/images/quiz-page.png)
