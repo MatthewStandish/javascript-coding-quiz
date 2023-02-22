@@ -40,8 +40,9 @@ const timerElement = document.getElementById("timer");
 const questionElement = document.getElementById("question");
 const optionsElement = document.getElementById("options");
 const startButton = document.getElementById("start");
+const infoElement = document.getElementById("info");
 
-const timerDuration = 60;
+const timerDuration = 90;
 
 let currentQuestionIndex = 0;
 let timeLeft = timerDuration;
@@ -92,9 +93,11 @@ function updateTimer() {
 
 function startQuiz() {
   startButton.remove();
+  infoElement.remove();
   timerInterval = setInterval(updateTimer, 1000);
   displayQuestion();
 }
+
 
 function endQuiz() {
   clearInterval(timerInterval);
