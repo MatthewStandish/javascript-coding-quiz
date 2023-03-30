@@ -1,9 +1,27 @@
-# <JavaScript-Coding-Quiz>
+# javascript-coding-quiz
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-I created a JavaScript coding quiz in order to test my knowledge on JavaScript.
-During this project, I have learned how to create a webpage which can store quiz scores and display them back to the user.
+This is a JavaScript coding quiz that allows users to test their knowledge of JavaScript programming concepts. The quiz consists of multiple-choice questions and a timer that counts down from 90 seconds.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+To install please run
+
+```
+N/A
+```
 
 ## Usage
 
@@ -13,6 +31,26 @@ During this project, I have learned how to create a webpage which can store quiz
 ![quiz-page](assets/images/quiz-page.png)
 ![scores-page](assets/images/high-scores.png)
 
-## Features
+To start the quiz, click the "Start Quiz" button. The timer will begin counting down from 60 seconds, and the first question will be displayed. Each question has four possible answers, and the user must select the correct one to proceed to the next question. If the user selects an incorrect answer, 10 seconds will be deducted from the timer.
 
-When the quiz is completed, the user is prompted to input initials to be stored and displayed on a high scores page.
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+If you find a bug or have a suggestion for how to improve this JavaScript coding quiz, please open an issue or submit a pull request on GitHub.
+
+## Tests
+
+To test please run
+
+```
+N/A
+```
+
+## Questions
+
+For additional questions, please contact [mwstandish@aol.com](mailto:mwstandish@aol.com).
+
+Follow me on GitHub at [MatthewStandish](https://github.com/MatthewStandish).
